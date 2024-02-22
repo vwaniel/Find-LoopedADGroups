@@ -42,3 +42,6 @@ Examining the results for Group1 through Group6 more closely, we can see that th
 
 ![image](https://github.com/vwaniel/Find-LoopedADGroups/assets/62962179/34e14fe2-645b-4534-bf93-0efc0c5cc726)
 
+Taking a closer look at the loop analysis results we can see that the code correct identified both loops along with an easy to follow explanation of why each loop exists.
+
+![image](https://github.com/vwaniel/Find-LoopedADGroups/assets/62962179/db482105-a4eb-4c55-a26b-5198875dd83b)
