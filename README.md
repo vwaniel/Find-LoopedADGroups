@@ -12,7 +12,7 @@ Import-Module .\Find-LoopedADGroups.ps1
 ```
 
 ## Usage
-You need to have the ActiveDirectory Powershell module installed/loaded (available in RSAT Tools).  Once that is available, run the function:
+You need to have the ActiveDirectory PowerShell module installed/loaded (available in RSAT Tools).  Once that is available, run the function:
 ```console
 Find-LoopedADGroups
 ```
